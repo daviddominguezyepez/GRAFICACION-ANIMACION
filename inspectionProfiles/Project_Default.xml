@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="opencv-python" />
+          <option value="numpy" />
+          <option value="cffi" />
+          <option value="Pillow" />
+          <option value="attrs" />
+          <option value="wheel" />
+          <option value="setuptools" />
+          <option value="six" />
+          <option value="python-dateutil" />
+          <option value="matplotlib" />
+          <option value="contourpy" />
+          <option value="fonttools" />
+          <option value="mediapipe" />
+          <option value="pycparser" />
+          <option value="pyparsing" />
+          <option value="cycler" />
+          <option value="packaging" />
+          <option value="kiwisolver" />
+          <option value="zipp" />
+          <option value="dlib" />
+          <option value="click" />
+          <option value="imutils" />
+          <option value="ultralytics" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
